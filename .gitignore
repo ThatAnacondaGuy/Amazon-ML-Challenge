@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+*.parquet
+*.zip
+.env
+.DS_Store
+work/
+work_v2/
+output/
+output_*/
